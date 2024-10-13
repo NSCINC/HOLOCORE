@@ -1,8 +1,6 @@
-Aqui está um exemplo de README para o **HoloCore**. Ele abrange as principais informações sobre o projeto, suas tecnologias, instruções de instalação e muito mais. Sinta-se à vontade para fazer ajustes conforme necessário!
 
----
 
-# 🌌 HoloCore 🌌
+# 🍄holoCore 🍄 
 
 ## ✨ Visão Geral do Projeto
 
@@ -83,11 +81,3 @@ make run
 
 Para mais informações, contribuições ou perguntas, entre em contato com os mantenedores do projeto através da página do GitHub do HoloCore. 🦅
 
----
-
-### Notas Finais
-
-- Inclua informações sobre licenciamento, caso relevante.
-- Considere adicionar exemplos de uso ou tutoriais para facilitar a adoção do projeto por novos usuários.
-
-Sinta-se à vontade para fazer ajustes ou adicionar informações adicionais conforme necessário! Se precisar de mais alterações, estou aqui para ajudar!
