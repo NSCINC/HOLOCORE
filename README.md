@@ -1,6 +1,6 @@
 
 
-# 🍄holoCore 🍄 
+# 🍄HOLOCORE🍄 
 
 ## ✨ Visão Geral do Projeto
 
